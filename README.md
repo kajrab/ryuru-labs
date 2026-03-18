@@ -10,7 +10,8 @@ Each folder maps to an article. Read the article, run the scripts.
 
 | Article | Scripts |
 |---|---|
-| [Connection Between Client and Server: TCP/IP Handshake](https://ryuru.com/connection-between-client-and-server-tcp-ip-handshake/) | [TCP-IP-Handshake/](TCP-IP-Handshake/) |
+| [Connection Between Client and Server: TCP/IP Handshake](https://ryuru.com/connection-between-client-and-server-tcp-ip-handshake/) | [TCP-IP-Handshake](TCP-IP-Handshake/) |
+| [Behind the Handshake: TCP and IP Protocols](https://ryuru.com/behind-the-handshake-tcp-and-ip-protocols/) | [TCP And IP Protocols](TCP-and-IP/) |
 
 ## Notes
 
