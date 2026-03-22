@@ -1,8 +1,6 @@
 # Ryuru Labs
 
-Scripts and projects from the [Ryuru](https://ryuru.com) blog.
-
-Each folder maps to an article. Read the article, run the scripts.
+Articles and their directories, lists articles from [Ryuru blog](https://ryuru.com) alongside the directories containing scripts used in each article, in order of publication.
 
 ---
 
