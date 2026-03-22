@@ -15,6 +15,7 @@ Each folder maps to an article. Read the article, run the scripts.
 | [OSI Model: 7 Layers of a Network Connection](https://ryuru.com/osi-model-7-layers-of-a-network-connection/) | --- |
 | [Connection Between Client and Server: Packet Flow](https://ryuru.com/connection-between-client-and-server-packet-flow/) | [Packet Flow](Packet-Flow/) |
 | [Creating UDP Sockets with Python’s Socket Module](https://ryuru.com/creating-udp-sockets-with-pythons-socket-module/) | [UDP](UDP/) |
+| [Encoding Characters: Bits, Bytes, Binary, ASCII, Unicode, UTF-8](https://ryuru.com/encoding-characters-bits-bytes-binary-ascii-unicode-utf-8/) | --- |
 
 
 ## Notes
