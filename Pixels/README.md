@@ -1,5 +1,5 @@
 Order of scripts:
 
-- [First script](Pixels/basics.cpp)
-- [Second script](Pixels/basics_rgb.cpp)
-- [First script](Pixels/ryuru_pixel.cpp)
+- [First script](/basics.cpp)
+- [Second script](/basics_rgb.cpp)
+- [First script](/ryuru_pixel.cpp)
