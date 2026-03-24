@@ -7,6 +7,7 @@ int main() {
         BeginDrawing();
         ClearBackground(BLACK);
 
+        // Red
         DrawPixel(200, 200, (Color){255, 0, 0, 255});
 
         EndDrawing();
