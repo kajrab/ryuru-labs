@@ -16,6 +16,9 @@ Articles and their directories, lists articles from [Ryuru blog](https://ryuru.c
 | [Encoding Characters: Bits, Bytes, Binary, ASCII, Unicode, UTF-8](https://ryuru.com/encoding-characters-bits-bytes-binary-ascii-unicode-utf-8/) | --- |
 | [Encoding Images: Pixels, Colors and Compression](https://ryuru.com/encoding-images-pixels-colors-and-compression/) | [Encoding Images](/Pixels/) |
 
+## Next Article
+
+ARP (Address Resolution Protocol): Mapping IP to MAC Addresses
 
 ## Notes
 
