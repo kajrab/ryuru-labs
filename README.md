@@ -15,10 +15,11 @@ Articles and their directories, lists articles from [Ryuru blog](https://ryuru.c
 | [Creating UDP Sockets with Python’s Socket Module](https://ryuru.com/creating-udp-sockets-with-pythons-socket-module/) | [UDP](UDP/) |
 | [Encoding Characters: Bits, Bytes, Binary, ASCII, Unicode, UTF-8](https://ryuru.com/encoding-characters-bits-bytes-binary-ascii-unicode-utf-8/) | --- |
 | [Encoding Images: Pixels, Colors and Compression](https://ryuru.com/encoding-images-pixels-colors-and-compression/) | [Encoding Images](/Pixels/) |
+| [ARP (Address Resolution Protocol): Mapping IP to MAC Addresses](https://ryuru.com/arp-address-resolution-protocol-mapping-ip-to-mac-addresses/) | [ARP](/ARP)|
 
 ## Next Article
 
-ARP (Address Resolution Protocol): Mapping IP to MAC Addresses
+ARP Spoofing and Poisoning with Scapy
 
 ## Notes
 
