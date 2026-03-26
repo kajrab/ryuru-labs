@@ -3,9 +3,7 @@
 # Please do not use it on any system or network without proper permission.
 
 import socket
-
 from scapy.all import *
-
 
 def get_ip():
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -15,13 +13,11 @@ def get_ip():
     finally:
         s.close()
 
-
 def get_mac():
     try:
         return get_if_hwaddr(conf.iface)
     except Exception as e:
         raise RuntimeError(f"Couldn't get MAC address: {e}")
-
 
 def arp_reply(target_ip, target_mac):
     try:
