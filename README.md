@@ -24,7 +24,8 @@ ARP (Address Resolution Protocol): Mapping IP to MAC Addresses
 
 - Scripts are for educational purposes only
 - Test only on machines you own or have explicit permission to use
-
+- This is provided without warranty, and we are not liable for any damages.
+  
 ---
 
 ## License
