@@ -21,6 +21,8 @@ Articles and their directories, lists articles from [Ryuru blog](https://ryuru.c
 
 ARP Spoofing and Poisoning with Scapy
 
+> Planned to be released on 29/03/2026.
+
 ## Notes
 
 - Scripts are for educational purposes only
