@@ -23,11 +23,13 @@ ARP Spoofing and Poisoning with Scapy
 
 > Planned to be released on 29/03/2026.
 
-## Notes
+## Disclaimer
 
-- Scripts are for educational purposes only
-- Test only on machines you own or have explicit permission to use
-- All scripts in this repository are provided without warranty, and we are not liable for any damages.
+- These scripts are provided strictly for educational and research purposes only.
+- Use them only on systems you own or have explicit permission to test.
+- Unauthorized use of these scripts may violate laws and regulations.
+- The author assume no responsibility or liability for any misuse or damage caused by these scripts.
+- All content is provided “as is” without any warranties, express or implied.
   
 ---
 
