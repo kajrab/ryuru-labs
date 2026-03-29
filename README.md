@@ -20,9 +20,9 @@ Articles and their directories, lists articles from [Ryuru blog](https://ryuru.c
 
 ## Next Article
 
-ARP Spoofing and Poisoning with Scapy
+Introduction to NDP (IPv6 Neighbor Discovery Protocol)
 
-> Planned to be released on 29/03/2026.
+> Planned to be released on 31/03/2026.
 
 ## Disclaimer
 
