@@ -22,7 +22,7 @@ Articles and their directories, lists articles from [Ryuru blog](https://ryuru.c
 
 Introduction to NDP (IPv6 Neighbor Discovery Protocol)
 
-> Planned to be released on 31/03/2026.
+> Planned to be released on 01/04/2026.
 
 ## Disclaimer
 
