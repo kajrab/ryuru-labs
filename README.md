@@ -21,7 +21,7 @@ Articles and their directories, lists articles from [Ryuru blog](https://ryuru.c
 
 ## Next Article
 
-Introduction to NDP (IPv6 Neighbor Discovery Protocol)
+A Fun Introduction to Reverse Engineering with Cutter
 
 > Planned to be released on 07/04/2026.
 
