@@ -17,6 +17,7 @@ Articles and their directories, lists articles from [Ryuru blog](https://ryuru.c
 | [Encoding Images: Pixels, Colors and Compression](https://ryuru.com/encoding-images-pixels-colors-and-compression/) | [Encoding Images](/Pixels/) |
 | [ARP (Address Resolution Protocol): Mapping IP to MAC Addresses](https://ryuru.com/arp-address-resolution-protocol-mapping-ip-to-mac-addresses/) | [ARP ](/ARP)|
 | [ARP Spoofing and Poisoning with Scapy](https://ryuru.com/arp-spoofing-and-poisoning-with-scapy/) | [MITM](/MITM) |
+| [Introduction to NDP (IPv6 Neighbor Discovery Protocol)](https://ryuru.com/introduction-to-ndp-ipv6-neighbor-discovery-protocol/) | --- |
 
 ## Next Article
 
