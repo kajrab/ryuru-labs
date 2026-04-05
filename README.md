@@ -23,7 +23,8 @@ Articles and their directories, lists articles from [Ryuru blog](https://ryuru.c
 
 A Fun Introduction to Reverse Engineering with Cutter
 
-> Planned to be released on 07/04/2026.
+> Planned to be released on 08/04/2026.
+> Delayed due to my tight schedule
 
 ## Disclaimer
 
