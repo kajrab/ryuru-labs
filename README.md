@@ -18,6 +18,7 @@ Articles and their directories, lists articles from [Ryuru blog](https://ryuru.c
 | [ARP (Address Resolution Protocol): Mapping IP to MAC Addresses](https://ryuru.com/arp-address-resolution-protocol-mapping-ip-to-mac-addresses/) | [ARP ](/ARP)|
 | [ARP Spoofing and Poisoning with Scapy](https://ryuru.com/arp-spoofing-and-poisoning-with-scapy/) | [MITM](/MITM) |
 | [Introduction to NDP (IPv6 Neighbor Discovery Protocol)](https://ryuru.com/introduction-to-ndp-ipv6-neighbor-discovery-protocol/) | --- |
+| [Finding the Way Through the Internet: IP Routing and Forwarding](https://ryuru.com/finding-the-way-through-the-internet-ip-routing-and-forwarding/) | --- |
 
 ## Next Article
 
